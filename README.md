@@ -1,2 +1,2 @@
-# Initial page
+# 类图笔记
 
