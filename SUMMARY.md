@@ -4,4 +4,5 @@
 * [用例图](yong-li-tu.md)
 * [类图](lei-tu.md)
 * [类图练习题](lei-tu-lian-xi-ti.md)
+* [类图备份](lei-tu-bei-fen.md)
 
